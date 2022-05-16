@@ -66,12 +66,12 @@ Here are some ideas to get you started:
             </p>
 <!-- LANGUAGES & TOOLS -LIST:END -->
 
+---
+
 <!-- MY STATISTIC -LIST:START -->
 <p align="center">
 <a href="https://github.com/Ajfero" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajfero&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> </a>
 <a href="https://github.com/Ajfero" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajfero&theme=dark" /> </a>
-
----
 
 <!--
 [<img align="center" alt="ajfero" src="https://github-readme-stats.vercel.app/api?username=ajfero&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>](https://github.com/ajfero)
