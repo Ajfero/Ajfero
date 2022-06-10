@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 <!-- CONNECT WITH ME -LIST:START -->
-<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Connect with me: </h1>
+<h1 align="lesft"> Connect with me: </h1>
 
 
 
@@ -121,6 +121,7 @@ Here are some ideas to get you started:
     <img src="https://readme.andyruwruw.com/api/now-playing">
   </a>
 </p>
+ 
 <!--
 <p align="center">
 <a href="https://linkedin.com/in/ajfero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajfero" height="30" width="40" /> </a>
